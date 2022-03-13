@@ -213,6 +213,7 @@
     <Content Include="Views\index.cshtml" />
     <Content Include="Views\ujwal\index.cshtml" />
     <Content Include="Views\arko\nayaa.cshtml" />
+    <Content Include="Views\ujwal\create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

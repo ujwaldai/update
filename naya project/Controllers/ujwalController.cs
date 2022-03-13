@@ -17,6 +17,9 @@ namespace naya_project.Controllers
             List<employee> all_data = db.employees.ToList();
             return View(all_data);
         }
-        
+        public ActionResult create()
+        {
+            return View();
+        }
     }
 }
